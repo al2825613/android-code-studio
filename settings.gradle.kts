@@ -1,18 +1,18 @@
 /*
- *  This file is part of AndroidCodeStudio.
+ * This file is part of AndroidCodeStudio.
  *
- *  AndroidCodeStudio is free software: you can redistribute it and/or modify
- *  it under the terms of the GNU General Public License as published by
- *  the Free Software Foundation, either version 3 of the License, or
- *  (at your option) any later version.
+ * AndroidCodeStudio is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
  *
- *  AndroidCodeStudio is distributed in the hope that it will be useful,
- *  but WITHOUT ANY WARRANTY; without even the implied warranty of
- *  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- *  GNU General Public License for more details.
+ * AndroidCodeStudio is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
  *
- *  You should have received a copy of the GNU General Public License
- *   along with AndroidCodeStudio.  If not, see <https://www.gnu.org/licenses/>.
+ * You should have received a copy of the GNU General Public License
+ * along with AndroidCodeStudio.  If not, see <https://www.gnu.org/licenses/>.
  */
 
 @file:Suppress("UnstableApiUsage")
@@ -41,8 +41,6 @@ dependencyResolutionManagement {
       "javac",
       "javapoet",
       "jaxp",
-      "jdk-compiler",
-      "jdk-jdeps",
       "jdt",
       "layoutlib-api",
       "logback-core"
